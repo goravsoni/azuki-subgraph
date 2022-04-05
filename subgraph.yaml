@@ -8,6 +8,7 @@ dataSources:
     source:
       address: "0xED5AF388653567Af2F388E6224dC7C4b3241C544"
       abi: Azuki
+      startBlock: 1148299
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.5
